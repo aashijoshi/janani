@@ -1,0 +1,81 @@
+
+#form
+{
+	margin-top:5%;
+	
+	
+}
+#ques
+{
+  height: 50%;  
+  width:100%;
+  background-color:#0c73a3;
+  color:white;
+  top:25%;
+  margin:5px auto;;
+	
+	
+}
+#allques
+{
+ 
+  width:100%;
+  background-color:#0c73a3;
+  color:white;
+  top:25%;
+  margin:5px auto;;
+	
+	
+}
+#myques
+{
+ 
+  width:100%;
+  background-color:#0c73a3;
+  color:white;
+  top:25%;
+  margin:5px auto;;
+	
+	
+}
+#recentquestion
+{
+	//height: 150px;  
+ 	//width:700px;
+	border: 2px solid #000000; 
+	font-size:25px;
+	text-align:center;
+	margin-left:5%;
+	margin-top:5%;
+	padding:20px;
+	margin-bottom:20px;
+	}
+#unanswered
+{
+ 
+  width:100%;
+  background-color:#0c73a3;
+  color:white;
+  top:25%;
+  margin:5px auto;;
+}
+#text
+{
+	padding-top: 40px;	
+	padding-left: 40px;	
+}
+#recentquestion1
+{
+	//height: 150px;  
+ 	//width:700px;
+	//border: 1px groove #000000; 
+	font-size:25px;
+	text-align:center;
+	margin-left:5%;
+	margin-top:2%;
+	//padding:20px;
+	margin-bottom:20px;
+	}
+
+/* CSS Document */
+
